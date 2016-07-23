@@ -1,0 +1,9 @@
+Author: Hong Xu and Shunshan Xu
+Software used to write: NetBeans IDE 8.0.2 (Build 201411181905)
+Language: Java SE 8.0
+For additional information or the full NetBeans project, please contact sxu@geociencias.unam.mx
+
+Instructions for compiling:
+1. Compile "Slicken1.java" in the "Program source code" directory using openjdk-7-jdk or above. On Ubuntu, "sudo apt-get install openjdk-7-jdk" and then "javac Slicken1.java" from the directory will compile the code. On Windows, manually installl the jdk and then run "javac Slicken1.java" on the command line from the directory.
+
+2. Run program "Slicken1" using command "java Slicken1" either on linux command line or on Windows cmd.
